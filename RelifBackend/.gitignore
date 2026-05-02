@@ -1,0 +1,8 @@
+target/
+.idea/
+*.log
+node_modules/
+.envtarget/
+    .idea/
+    *.log
+    node_modules/
